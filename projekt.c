@@ -3,11 +3,16 @@
 
 int main (void)
 {
-  printf("Gustav er god til GitHub men det ku også være mig");
   
-  return(0);
+  
 }
 
+/* Nicolais funktion, niks pille! */
+int pizza (void)
+{
+  printf("Quote me on this, TSM goes 0-6 tomorrow");
+  return(0);
+}
 
 
 
